@@ -7,3 +7,6 @@ https://wwa.lanzoui.com/b016lq0xi
 密码:a713
 # 视角小说游戏资源库
 https://vndb.org/
+# 解包工具
+https://wwa.lanzoui.com/b016lryej
+密码:9yo7
