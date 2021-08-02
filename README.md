@@ -37,3 +37,5 @@ http://renjs.net/
 https://github.com/lunafromthemoon/RenJS-V2
 # ren'py 开源
 https://www.renpy.org/
+# 橙光 （不开源） 已死
+
