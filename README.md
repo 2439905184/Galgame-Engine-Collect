@@ -35,3 +35,5 @@ http://www.nvlmaker.net/
 # ren' js 开源
 http://renjs.net/
 https://github.com/lunafromthemoon/RenJS-V2
+# ren'py 开源
+https://www.renpy.org/
