@@ -10,3 +10,5 @@ https://vndb.org/
 # 解包工具
 https://wwa.lanzoui.com/b016lryej 推荐使用carss0.140-final 解包 支持的格式多 nsa和xp3都能解
 密码:9yo7
+# 引擎格式大全和引擎大全
+https://morkt.github.io/GARbro/supported.html
