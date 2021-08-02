@@ -25,7 +25,7 @@ http://www.visualnovelty.com/index.html
 http://cs2.suki.jp/
 # xsystem-35 引擎
 资料暂无
-# bkengine 全新的AVG/Galgame游戏引擎
+# bkengine 全新的AVG/Galgame游戏引擎 (基于cocos-2dx)
 https://bakery.moe/
 # the nvl maker (基于krk)
 http://www.nvlmaker.net/
