@@ -16,4 +16,6 @@ https://morkt.github.io/GARbro/supported.html
 https://github.com/liriliri/webvn
 # 视觉小说收集站 （数据库）vndb
 https://vndb.org/
-
+# 我开发的Avg框架（js) ——EasyAvg.js 基于jquery封装 dom渲染
+https://github.com/little-game-and-simple-software/EasyAvg.js
+（2.0打算使用 pharser.js做底层渲染）
