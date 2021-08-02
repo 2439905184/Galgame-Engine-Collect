@@ -12,3 +12,8 @@ https://wwa.lanzoui.com/b016lryej 推荐使用carss0.140-final 解包 支持的�
 密码:9yo7
 # 引擎格式大全和引擎大全
 https://morkt.github.io/GARbro/supported.html
+# 国人开发的html5引擎 webvn （半弃坑）
+https://github.com/liriliri/webvn
+# 视觉小说收集站 （数据库）vndb
+https://vndb.org/
+
