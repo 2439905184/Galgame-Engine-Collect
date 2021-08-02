@@ -21,3 +21,5 @@ https://github.com/little-game-and-simple-software/EasyAvg.js
 （2.0打算使用 pharser.js做底层渲染）
 # novelty引擎
 http://www.visualnovelty.com/index.html
+# catSystem2引擎
+http://cs2.suki.jp/
