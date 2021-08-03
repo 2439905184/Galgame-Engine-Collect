@@ -1,4 +1,5 @@
-# Avg-Adv-Engine-Collect
+# Avg-Adv-Engine-Collect 
+沉迷游戏伤身 请注意劳逸结合 享受健康生活。以下都是一些目录，但没有划分年龄段，个人推荐先玩noesis之类的视觉小说，noesis不适合低于15岁的人玩，含有大量对人生、世界的哲理思考，悬疑，轻微暴力倾向。请各位注意。
 ### 各种视觉小说/gal 引擎/游戏合集
 网站 :https://pan.cangshui.net/
 密码god
@@ -46,3 +47,5 @@ https://acgngame.net/
 资料暂无
 ### 人机题材的视觉小说
 《星之梦》《ATRI》《这里没有格林达姆》
+### acg慢音
+https://www.acgmanyin.com/
