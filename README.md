@@ -1,41 +1,44 @@
 # Avg-Adv-Engine-Collect
-# 各种视觉小说/gal 引擎/游戏合集
+### 各种视觉小说/gal 引擎/游戏合集
 网站 :https://pan.cangshui.net/
 密码god
-# 各种引擎合集
+### 各种引擎合集
 https://wwa.lanzoui.com/b016lq0xi
 密码:a713
-# 视角小说游戏资源库
+### 视角小说游戏资源库
 https://vndb.org/
-# 解包工具
+### 解包工具
 https://wwa.lanzoui.com/b016lryej 推荐使用carss0.140-final 解包 支持的格式多 nsa和xp3都能解
 密码:9yo7
-# 引擎格式大全和引擎大全
+### 引擎格式大全和引擎大全
 https://morkt.github.io/GARbro/supported.html
-# 国人开发的html5引擎 webvn （半弃坑）
+### 国人开发的html5引擎 webvn （半弃坑）
 https://github.com/liriliri/webvn
-# 视觉小说收集站 （数据库）vndb
+### 视觉小说收集站 （数据库）vndb
 https://vndb.org/
-# 我开发的Avg框架（js) ——EasyAvg.js 基于jquery封装 dom渲染
+### 我开发的Avg框架（js) ——EasyAvg.js 基于jquery封装 dom渲染
 https://github.com/little-game-and-simple-software/EasyAvg.js
 （2.0打算使用 pharser.js做底层渲染）
-# novelty引擎
+### novelty引擎
 http://www.visualnovelty.com/index.html
-# catSystem2引擎
+### catSystem2引擎
 http://cs2.suki.jp/
-# xsystem-35 引擎
+### xsystem-35 引擎
 资料暂无
-# bkengine 全新的AVG/Galgame游戏引擎 (基于cocos-2dx)
+### bkengine 全新的AVG/Galgame游戏引擎 (基于cocos-2dx)
 https://bakery.moe/
-# the nvl maker (基于krk)
+### the nvl maker (基于krk)
 http://www.nvlmaker.net/
-# Monogatari引擎（开源） 基于js
+### Monogatari引擎（开源） 基于js
 源码地址：https://github.com/Monogatari/Monogatari
 官网：https://monogatari.io/
-# ren' js 开源
+### ren' js 开源
 http://renjs.net/
 https://github.com/lunafromthemoon/RenJS-V2
-# ren'py 开源
+### ren'py 开源
 https://www.renpy.org/
-# 橙光 （不开源） 已死
-
+### 橙光 （不开源） 已死
+### thvse免费资源站（游戏、软件等）
+https://thvse.cn/
+### galWorld-Galgame爱好者之家
+https://acgngame.net/
