@@ -51,3 +51,4 @@ https://acgngame.net/
 《星之梦》《ATRI》《这里没有格林达姆》
 ### acg慢音
 https://www.acgmanyin.com/
+## 详细资料请查看wiki
