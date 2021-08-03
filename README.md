@@ -44,3 +44,5 @@ https://thvse.cn/
 https://acgngame.net/
 ### 终点论坛 
 资料暂无
+### 人机题材的视觉小说
+《星之梦》《ATRI》《这里没有格林达姆》
