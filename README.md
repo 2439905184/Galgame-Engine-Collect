@@ -62,7 +62,10 @@ https://thvse.cn/
 公司官网:https://warmth.ne.jp/index.php
 ### bgi引擎
 [相关资料](https://www.iteye.com/blog/rednaxelafx-150093)
+### EntisGLS引擎
+![image](https://user-images.githubusercontent.com/29478722/140478772-0b2a2148-dddd-48c5-9efc-e0304cdad6a6.png)
 
+http://www.entis.jp/gls/
 ### galWorld-Galgame爱好者之家
 https://acgngame.net/
 ### 终点论坛 
