@@ -67,7 +67,8 @@ https://thvse.cn/
 http://www.entis.jp/gls/
 ### livemaker引擎
 http://www.livemaker.net/
-
+### AIMS引擎 （多媒体2d游戏引擎）
+http://aims.dna-softwares.com/
 ### galWorld-Galgame爱好者之家
 https://acgngame.net/
 ### 终点论坛 
