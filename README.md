@@ -69,6 +69,10 @@ http://www.entis.jp/gls/
 http://www.livemaker.net/
 ### AIMS引擎 （多媒体2d游戏引擎）
 http://aims.dna-softwares.com/
+### playground 2d引擎
+https://github.com/KLab/PlaygroundOSS
+### Kalyge游戏引擎 通用引擎
+http://www.klayge.org/about/features/
 ### galWorld-Galgame爱好者之家
 https://acgngame.net/
 ### 终点论坛 
