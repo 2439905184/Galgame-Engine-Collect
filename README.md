@@ -80,6 +80,8 @@ https://almight.jp/en/
 智能手机支持 HTML5 冒险游戏引擎 - 阿尔米特
 </p>
 
+### loli suger 国人自己的galgame和动漫网站 私人网站
+https://www.lolisuger.com/pcgame/galgame/
 ### galWorld-Galgame爱好者之家
 https://acgngame.net/
 ### 终点论坛 
