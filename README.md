@@ -89,6 +89,12 @@ http://novelsphere.jp/
 http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
 ### nvlist开源跨平台引擎
 https://github.com/anonl/nvlist
+### Suika2开源引擎(跨平台）
+https://suika2.com/en/
+![image](https://user-images.githubusercontent.com/29478722/141467451-fcf4d112-b08d-47a1-9b5b-b81a8787921d.png)
+
+<p>开源地址:https://github.com/ktabata/suika2</p>
+
 <p>
 全能AVG发动机 - 游戏引擎兼容智能手机
 智能手机支持 HTML5 冒险游戏引擎 - 阿尔米特
