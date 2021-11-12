@@ -78,7 +78,8 @@ https://almight.jp/en/
 ### nscripter引擎（老牌经典引擎）
 ![image](https://user-images.githubusercontent.com/29478722/141453561-a7e4dd86-9147-4aec-b655-80c2e2e8061b.png)
 http://www.nscripter.com/
-
+### yuris引擎
+http://yu-ris.net/
 <p>
 全能AVG发动机 - 游戏引擎兼容智能手机
 智能手机支持 HTML5 冒险游戏引擎 - 阿尔米特
