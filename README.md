@@ -86,6 +86,8 @@ https://www.retouch.info/
 http://novelsphere.jp/
 ### lemo引擎 起源于flash actions语言
 http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
+### nvlist开源跨平台引擎
+https://github.com/anonl/nvlist
 <p>
 全能AVG发动机 - 游戏引擎兼容智能手机
 智能手机支持 HTML5 冒险游戏引擎 - 阿尔米特
