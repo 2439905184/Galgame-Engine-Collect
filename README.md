@@ -80,6 +80,7 @@ https://almight.jp/en/
 http://www.nscripter.com/
 ### yuris引擎
 http://yu-ris.net/
+引擎作者：穂乃井たくみ
 ### retouch 是一种游戏引擎，用于许多应用。
 https://www.retouch.info/
 ### o2引擎
