@@ -48,7 +48,11 @@ https://www.renpy.org/
 ![image](https://user-images.githubusercontent.com/29478722/141755715-a97ba612-6681-41ee-870e-2c102af0e9bd.png)
 
 https://www.66rpg.com/
+### 闪艺（国产）橙光的竞争对手
+![image](https://user-images.githubusercontent.com/29478722/141756157-9646a517-0606-400f-b87c-ac27469d0630.png)
 
+https://www.3000.com/
+https://www.3000.com/client-download.html
 ### thvse免费资源站（游戏、软件等）
 ### Artemis Engine
 http://www.ies-net.com/?page_id=2
@@ -107,8 +111,12 @@ https://suika2.com/en/
 全能AVG发动机 - 游戏引擎兼容智能手机
 智能手机支持 HTML5 冒险游戏引擎 - 阿尔米特
 </p>
-### adv++引擎
-https://www.yox-project.com/jp/adv_ppp/download.htm
+### adv加加引擎
+
+![image](https://user-images.githubusercontent.com/29478722/141756244-004d0259-783f-4052-8ab0-781c42aba2e8.png)
+
+<a href="https://www.yox-project.com/jp/adv_ppp/download.htm"></a>
+
 ### loli suger 国人自己的galgame和动漫网站 私人网站
 https://www.lolisuger.com/pcgame/galgame/
 ### galWorld-Galgame爱好者之家
