@@ -44,7 +44,11 @@ http://renjs.net/
 https://github.com/lunafromthemoon/RenJS-V2
 ### ren'py 开源
 https://www.renpy.org/
-### 橙光 （不开源） 已死
+### 橙光（不开源）
+![image](https://user-images.githubusercontent.com/29478722/141755715-a97ba612-6681-41ee-870e-2c102af0e9bd.png)
+
+https://www.66rpg.com/
+
 ### thvse免费资源站（游戏、软件等）
 ### Artemis Engine
 http://www.ies-net.com/?page_id=2
