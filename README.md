@@ -28,8 +28,10 @@ https://github.com/little-game-and-simple-software/EasyAvg.js
 http://www.visualnovelty.com/index.html
 ### catSystem2引擎
 http://cs2.suki.jp/
-### xsystem-35 引擎
-资料暂无
+### xsystem-35-sdl2 引擎 (alicesoft公司的引擎)
+https://github.com/kichikuou/xsystem35-sdl2
+### system-3-sdl2 引擎(alicesoft公司的引擎）
+https://github.com/kichikuou/system3-sdl2
 ### bkengine 全新的AVG/Galgame游戏引擎 (基于cocos-2dx)
 https://bakery.moe/
 ### the nvl maker (基于krk)
