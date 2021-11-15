@@ -87,6 +87,8 @@ http://yu-ris.net/
 https://www.retouch.info/
 ### o2引擎
 http://novelsphere.jp/
+### ponkan开源引擎（基于web技术）
+https://github.com/studiomikan/ponkan
 ### lemo引擎 起源于flash actions语言
 http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
 ### nvlist开源跨平台引擎
