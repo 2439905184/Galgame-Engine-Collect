@@ -115,7 +115,7 @@ https://suika2.com/en/
 
 ![image](https://user-images.githubusercontent.com/29478722/141756244-004d0259-783f-4052-8ab0-781c42aba2e8.png)
 
-<a href="https://www.yox-project.com/jp/adv_ppp/download.htm"></a>
+<a href="https://www.yox-project.com/jp/adv_ppp/download.htm">adv++</a>
 
 ### loli suger 国人自己的galgame和动漫网站 私人网站
 https://www.lolisuger.com/pcgame/galgame/
