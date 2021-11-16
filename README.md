@@ -117,6 +117,11 @@ https://suika2.com/en/
 
 <a href="https://www.yox-project.com/jp/adv_ppp/download.htm">adv++</a>
 
+### Librian引擎（国人开源）
+![image](https://user-images.githubusercontent.com/29478722/141972108-6dc16400-1af5-4c11-bc1c-64e276a4f30a.png)
+
+https://librian.net/
+开源地址：https://github.com/RimoChan/Librian
 ### loli suger 国人自己的galgame和动漫网站 私人网站
 https://www.lolisuger.com/pcgame/galgame/
 ### galWorld-Galgame爱好者之家
