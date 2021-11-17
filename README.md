@@ -97,6 +97,10 @@ https://www.retouch.info/
 http://novelsphere.jp/
 ### ponkan开源引擎（基于web技术）
 https://github.com/studiomikan/ponkan
+### VNES_Raylib（开源引擎）
+https://github.com/ishani-rgb/VNES-Raylib
+![image](https://user-images.githubusercontent.com/29478722/142190116-3fd1adac-2ec4-4ac5-8849-8ac63c2671ac.png)
+
 ### lemo引擎 起源于flash actions语言
 http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
 ### nvlist开源跨平台引擎
