@@ -178,7 +178,8 @@
 ### `loli suger`：国人自己的galgame和动漫网站
 + https://www.lolisuger.com/pcgame/galgame/
 + 私人网站
-
+### 05的资源小站
++ http://kfc05.herokuapp.com/S1/
 ### `galWorld`：Galgame爱好者之家
 + https://acgngame.net/
 
