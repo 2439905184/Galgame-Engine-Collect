@@ -158,6 +158,12 @@
 + http://www.le-mo.jp/lemo/products/LemoNovel/index.htm
 + 起源于`flash actions`语言
 
+### `pymo`引擎（开源）
++ http://pymo.github.io/index_real.html
++ https://github.com/pymo/pymo
++ https://baike.baidu.com/item/PYMO%E5%BC%95%E6%93%8E/6103436
++ 手机上的GalGame引擎
+
 ### `nvlist`引擎
 + https://github.com/anonl/nvlist
 + 开源，跨平台
