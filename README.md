@@ -181,6 +181,10 @@
 + 官网：https://librian.net/
 + 开源
 
+### LPEngine作品中心
++ 官网：http://game.lpengine.cn/
++ qq群：923454388
++ 
 ### `loli suger`：国人自己的galgame和动漫网站
 + https://www.lolisuger.com/pcgame/galgame/
 + 私人网站
