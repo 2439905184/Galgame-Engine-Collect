@@ -173,6 +173,12 @@
 + 官网：https://suika2.com/en/
 + 开源，跨平台
 
+### `Soul Engine`项目
++ 官网：http://soulengineproject.com/
+
+### `Light vn引擎`项目
++ 官网：https://lightvn.net/
+
 ### `adv加加`引擎
 + [下载地址](https://www.yox-project.com/jp/adv_ppp/download.htm)
 
