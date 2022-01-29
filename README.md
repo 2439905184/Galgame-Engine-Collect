@@ -175,6 +175,7 @@
 
 ### `Soul Engine`项目
 + 官网：http://soulengineproject.com/
++ 开源引擎: https://github.com/hsdk123/Soul-Engine
 
 ### `Light vn引擎`项目
 + 官网：https://lightvn.net/
