@@ -173,7 +173,9 @@
 ### `siglus`引擎
 + 日本key社自研
 + 不开源，私有引擎
-
+###  `AIRNovel`引擎
++ https://famibee.web.fc2.com/intro/home.htm
++ 引擎语言：action script(adobe flash)
 ### `Suika2`引擎
 + 源码：https://github.com/ktabata/suika2
 + 官网：https://suika2.com/en/
