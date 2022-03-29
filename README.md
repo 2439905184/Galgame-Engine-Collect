@@ -167,6 +167,9 @@
 ### `nvlist`引擎
 + https://github.com/anonl/nvlist
 + 开源，跨平台
+### `siglus`引擎
++ 日本key社自研
++ 不开源，私有引擎
 
 ### `Suika2`引擎
 + 源码：https://github.com/ktabata/suika2
