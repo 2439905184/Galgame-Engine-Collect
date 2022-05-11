@@ -224,3 +224,5 @@
 
 ### `澄空学园论坛`
 + https://bbs.sumisora.net/
+###  `在线玩怀旧视觉小说`
+https://tss.asenheim.org/en/
