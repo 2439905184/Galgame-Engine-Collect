@@ -87,9 +87,14 @@
 ### `rlvm`
 + https://github.com/eglaysher/rlvm
 + 开源reallivemax引擎的运行时实现
+
 ### 橙光
 + https://www.66rpg.com/
 + 闭源
+
+### FFD
+LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度很高，其中的分段SKIP功能，目前没看到有别的引擎可以做到
+公司官网：http://www.littlewitch.jp/products/lw02quartett/system.html
 
 ### 闪艺
 + 官网：https://www.3000.com/
