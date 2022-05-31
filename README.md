@@ -242,3 +242,6 @@ https://tss.asenheim.org/en/
 
 ### `梦幻星空电脑单机游戏论坛`
 https://www.banbaog.com/
+
+### `oklilo`
++ [MyGalgame by忧郁的萝莉](https://www.oklili.com)
