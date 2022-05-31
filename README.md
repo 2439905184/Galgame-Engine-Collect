@@ -199,6 +199,11 @@
 + 官网：https://librian.net/
 + 开源
 
+### PJADV引擎
++ 官网：未知
++ 是否开放使用：未知
++ 应该是闭源
+
 ### LPEngine作品中心
 + 官网：http://game.lpengine.cn/
 + qq群：923454388
