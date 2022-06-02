@@ -212,6 +212,10 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + 是否开放使用：未知
 + 应该是闭源
 
+### 无双avg引擎
++ 官网：http://gamediy.net/ （已关闭）
++ qq群：21750804
+
 ### LPEngine作品中心
 + 官网：http://game.lpengine.cn/
 + qq群：923454388
