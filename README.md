@@ -215,6 +215,7 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 ### 无双avg引擎
 + 官网：http://gamediy.net/ （已关闭）
 + qq群：21750804
++ 引擎下载：https://github.com/2439905184/Galgame-Engine-Collect/releases/tag/v1.3
 
 ### LPEngine作品中心
 + 官网：http://game.lpengine.cn/
