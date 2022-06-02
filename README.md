@@ -212,6 +212,11 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + 是否开放使用：未知
 + 应该是闭源
 
+### Reitsuki引擎
++ 官网：https://github.com/kasuganosora/Reitsuki
++ 开源
++ 基于web技术
+
 ### 无双avg引擎
 + 官网：http://gamediy.net/ （已关闭）
 + qq群：21750804
