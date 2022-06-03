@@ -226,10 +226,14 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 ### LPEngine作品中心
 + 官网：http://game.lpengine.cn/
 + qq群：923454388
-+ 
-### `loli suger`：国人自己的galgame和动漫网站
+
+<hr/>
+
+## 下面都是一些资源网站
+
+### `loli suger`：糖社
 + https://www.lolisuger.com/pcgame/galgame/
-+ 私人网站
+
 ### 05的资源小站
 + http://kfc05.herokuapp.com/S1/
 ### `galWorld`：Galgame爱好者之家
@@ -237,9 +241,6 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 
 ### 终点论坛 
 + _资料暂无_
-
-### 人机题材的视觉小说
-+ 《星之梦》《ATRI》《这里没有格林达姆》
 
 ### `acg慢音`
 + https://www.acgmanyin.com/
