@@ -10,11 +10,10 @@
 
 ---
 ## 目录
-网站列表
-[acg慢音](#acg慢音)
+[网站列表](#下面都是一些资源网站)
 
 ## 正题!
-详细资料请查看wiki
+更多详细资料请查看wiki
 
 ### 解包工具合集
 + https://github.com/Inori/FuckGalEngine
@@ -230,30 +229,11 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 <hr/>
 
 ## 下面都是一些资源网站
-
-### `loli suger`：糖社
-+ https://www.lolisuger.com/pcgame/galgame/
-
-### 05的资源小站
-+ http://kfc05.herokuapp.com/S1/
-### `galWorld`：Galgame爱好者之家
-+ https://acgngame.net/
-
-### 终点论坛 
-+ _资料暂无_
-
-### `acg慢音`
-+ https://www.acgmanyin.com/
-### 月下社
-+ https://www.3fgal.com/
-
-### `澄空学园论坛`
-+ https://bbs.sumisora.net/
-###  `在线玩怀旧视觉小说`
-https://tss.asenheim.org/en/
-
-### `梦幻星空电脑单机游戏论坛`
-https://www.banbaog.com/
-
-### `oklilo`
++ [loli suger：糖社](https://www.lolisuger.com/pcgame/galgame/)
++ [galWorld：Galgame爱好者之家](https://acgngame.net/)
++ [终点论坛,链接未知]() 
++ [月下社](https://www.3fgal.com/)
++ [澄空学园论坛](https://bbs.sumisora.net/)
++ [在线玩怀旧视觉小说](https://tss.asenheim.org/en/)
++ [梦幻星空电脑单机游戏论坛](https://www.banbaog.com/)
 + [MyGalgame by忧郁的萝莉](https://www.oklili.com)
