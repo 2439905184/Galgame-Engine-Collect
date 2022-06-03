@@ -152,6 +152,7 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 
 ### `retouch`引擎
 + https://www.retouch.info/
++ 开发者：![image](https://user-images.githubusercontent.com/29478722/171829934-b0300dcb-c093-491a-9694-a02f92636889.png)
 
 ### `o2`引擎
 + http://novelsphere.jp/
