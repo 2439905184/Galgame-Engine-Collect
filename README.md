@@ -5,6 +5,8 @@
 
 以下都是一些目录，但没有划分年龄段。个人推荐先玩`noesis`之类的视觉小说，`noesis`含有大量对人生、世界的哲理思考，悬疑，轻微暴力倾向，不适合低于15岁的人玩，请各位注意。
 
+我这里说的`noesis`是这个[noesis](http://cutlass.qee.jp/)游戏，不要和另外一个noesis搞混了
+
 ## 小提示
 个人不喜欢h，不要把全年龄的含有美好故事和人生哲理的游戏和纯拔作的游戏相提并论。爽只是一时的，真正能够带来心灵触动的还是全年龄的，哲理性游戏。（本人也是”半个程序员“编程爱好者，有自己的小游戏，b站up主，专注于多媒体领域。）
 
@@ -81,7 +83,6 @@
 ### `ren'py`
 + https://www.renpy.org/
 + 开源
-+ 
 ### `rlvm`
 + https://github.com/eglaysher/rlvm
 + 开源reallivemax引擎的运行时实现
@@ -198,7 +199,7 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 ### `reallivemax`引擎
 + http://www.product.co.jp/reallivemax/
 + 日本visual arts公司开发
-### `adv加加`引擎
+### `adv++`引擎
 + [下载地址](https://www.yox-project.com/jp/adv_ppp/download.htm)
 
 ### 国人开发的`Librian`引擎
