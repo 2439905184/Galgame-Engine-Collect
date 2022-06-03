@@ -18,7 +18,6 @@
 
 ### 解包工具合集
 + https://github.com/Inori/FuckGalEngine
-+ 
 + https://wwa.lanzoui.com/b016lryej
 + 密码：`9yo7`
 + 推荐使用`carss0.140-final`解包，支持的格式多，`nsa`和`xp3`都能解
@@ -211,6 +210,7 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + 官网：未知
 + 是否开放使用：未知
 + 应该是闭源
++ 开源此引擎的游戏公司官网：http://www.pajamas.ne.jp/
 
 ### Reitsuki引擎
 + 官网：https://github.com/kasuganosora/Reitsuki
