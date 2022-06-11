@@ -239,7 +239,10 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + [thvse免费资源站](https://thvse.cn/) 描述：游戏分享网站
 + [梦灵神社](https://www.mkwgame.com/) 描述：综合网站
 + [初音的青葱](https://www.yngal.com/) 描述：游戏分享网站
-+ [月幕Galgame](https://www.ymgal.com/index) 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁
++ [月幕Galgame](https://www.ymgal.com/index) 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁 
+<br/>
+
+[返回](#目录)
 
 ## 相关工具
 [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
