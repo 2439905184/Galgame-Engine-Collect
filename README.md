@@ -13,7 +13,7 @@
 ---
 ## 目录
 + [网站列表](#下面都是一些资源网站)
-+ [相关工具]("#相关工具)
++ [相关工具列表](#相关工具)
 
 ## 正题!
 更多详细资料请查看wiki
@@ -245,6 +245,5 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 [返回](#目录)
 
 ## 相关工具
-[Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
++ [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
 
-<hr/>
