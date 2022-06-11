@@ -228,17 +228,17 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 <hr/>
 
 ## 下面都是一些资源网站
-+ [loli suger：糖社](https://www.lolisuger.com/pcgame/galgame/)
-+ [galWorld：Galgame爱好者之家](https://acgngame.net/)
-+ [终点论坛](https://bbs.zdfx.net/) 
-+ [月下社](https://www.3fgal.com/)
-+ [澄空学园论坛](https://bbs.sumisora.net/)
-+ [在线玩怀旧视觉小说](https://tss.asenheim.org/en/)
-+ [梦幻星空电脑单机游戏论坛](https://www.banbaog.com/)
-+ [MyGalgame by忧郁的萝莉](https://www.oklili.com)
-+ [thvse免费资源站](https://thvse.cn/)
-+ [梦灵神社](https://www.mkwgame.com/)
-+ [初音的青葱](https://www.yngal.com/)
++ [loli suger：糖社](https://www.lolisuger.com/pcgame/galgame/)描述：游戏分享网站
++ [galWorld：Galgame爱好者之家](https://acgngame.net/)描述：游戏分享网站
++ [终点论坛](https://bbs.zdfx.net/) 描述：论坛交流网站
++ [月下社](https://www.3fgal.com/)描述：游戏分享网站
++ [澄空学园论坛](https://bbs.sumisora.net/)描述：游戏分享网站
++ [在线玩怀旧视觉小说](https://tss.asenheim.org/en/)描述：游戏分享网站
++ [梦幻星空电脑单机游戏论坛](https://www.banbaog.com/) 描述：游戏分享网站
++ [MyGalgame by忧郁的萝莉](https://www.oklili.com) 描述：游戏分享网站
++ [thvse免费资源站](https://thvse.cn/) 描述：游戏分享网站
++ [梦灵神社](https://www.mkwgame.com/) 描述：综合网站
++ [初音的青葱](https://www.yngal.com/) 描述：游戏分享网站
 + [月幕Galgame](https://www.ymgal.com/index) 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁
 ## 相关工具
 [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler)
