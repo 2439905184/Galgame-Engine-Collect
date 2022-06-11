@@ -237,6 +237,7 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + [梦幻星空电脑单机游戏论坛](https://www.banbaog.com/)
 + [MyGalgame by忧郁的萝莉](https://www.oklili.com)
 + [thvse免费资源站](https://thvse.cn/)
++ [梦灵神社](https://www.mkwgame.com/)
 + [月幕Galgame](https://www.ymgal.com/index) 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁
 ## 相关工具
 [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler)
