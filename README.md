@@ -101,9 +101,6 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + 下载地址：https://www.3000.com/client-download.html
 + 国产, 橙光的竞争对手
 
-### `thvse`免费资源站
-+ https://thvse.cn/
-
 ### avgplus 
 + https://avg-engine.com/
 + 开源地址：https://github.com/avg-plus/avg.renderer
@@ -233,12 +230,13 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 ## 下面都是一些资源网站
 + [loli suger：糖社](https://www.lolisuger.com/pcgame/galgame/)
 + [galWorld：Galgame爱好者之家](https://acgngame.net/)
-+ [终点论坛,链接未知]() 
++ [终点论坛](https://bbs.zdfx.net/) 
 + [月下社](https://www.3fgal.com/)
 + [澄空学园论坛](https://bbs.sumisora.net/)
 + [在线玩怀旧视觉小说](https://tss.asenheim.org/en/)
 + [梦幻星空电脑单机游戏论坛](https://www.banbaog.com/)
 + [MyGalgame by忧郁的萝莉](https://www.oklili.com)
++ [thvse免费资源站](https://thvse.cn/)
 + [月幕Galgame](https://www.ymgal.com/index) 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁
 ## 相关工具
 [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler)
