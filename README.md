@@ -231,6 +231,10 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + steam：https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/
 + 性质：不开源，私有
 
+### Nova框架
++ 描述：基于Unity，对程序员友好的视觉小说（VN）/文字冒险游戏（AVG）框架
++ 开源地址：https://github.com/Lunatic-Works/Nova
+
 ### LPEngine
 + 官网：http://game.lpengine.cn/
 + qq群：923454388
