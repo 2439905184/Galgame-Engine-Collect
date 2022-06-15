@@ -230,6 +230,8 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + 官网：https://www.nyu-media.com/
 + steam：https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/
 + 性质：不开源，私有
++ 标准版免费，但是缺少商业支持
++ 标准版下载地址：https://b.tyrano.jp/download/builder
 
 ### Nova框架
 + 描述：基于Unity，对程序员友好的视觉小说（VN）/文字冒险游戏（AVG）框架
