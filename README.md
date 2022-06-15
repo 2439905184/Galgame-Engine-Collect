@@ -226,6 +226,11 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + 开发公司：开发了rpgmaker的日本公司
 + 性质：不开源，私有
 
+### TyranoBuilder
++ 官网：https://www.nyu-media.com/
++ steam：https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/
++ 性质：不开源，私有
+
 ### LPEngine
 + 官网：http://game.lpengine.cn/
 + qq群：923454388
