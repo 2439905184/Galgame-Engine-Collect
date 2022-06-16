@@ -203,7 +203,8 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 ### 国人开发的`Librian`引擎
 + 源码：https://github.com/RimoChan/Librian
 + 官网：https://librian.net/
-+ 开源
++ 性质：开源 
++ 引擎名称来源猜测 原英文单词：librarian 中文意思：图书管理员
 
 ### PJADV引擎
 + 官网：未知
