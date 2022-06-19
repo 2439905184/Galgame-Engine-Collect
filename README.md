@@ -424,4 +424,5 @@
 ## 相关工具
 + [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
 + [FuckGalEngine](https://github.com/Inori/FuckGalEngine) 描述：某github用户的个人galgame破解工具
++ [movie2galagame](https://github.com/Quandong-Zhang/movie2galagame) 描述：只需影片的mp4和srt文件，就可以自动生成游戏2333333.....
 + [返回目录](#目录)
