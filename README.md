@@ -128,9 +128,9 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 ### `livemaker`引擎
 + http://www.livemaker.net/
 
-### `AIMS`引擎
-+ http://aims.dna-softwares.com/
-+ 多媒体2d游戏引擎
+### AIMS 2D多媒体引擎
++ [引擎官网](http://aims.dna-softwares.com/)
++ [公司官网](https://www.dna-softwares.com/)
 
 ### `playground 2d`引擎
 + https://github.com/KLab/PlaygroundOSS
