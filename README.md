@@ -19,91 +19,110 @@
 更多详细资料请查看wiki
 
 ### 解包工具合集
-+ https://github.com/Inori/FuckGalEngine
++ [FuckGalEngine](https://github.com/Inori/FuckGalEngine)
 + https://wwa.lanzoui.com/b016lryej
 + 密码：`9yo7`
 + 推荐使用`carss0.140-final`解包，支持的格式多，`nsa`和`xp3`都能解
 
 ### 各种视觉小说/gal引擎/游戏合集
-+ https://pan.cangshui.net/
++ [链接](https://pan.cangshui.net/)
 + 密码：`god`
 
 ### 各种引擎合集
-+ https://wwa.lanzoui.com/b016lq0xi
++ [蓝奏云](https://wwa.lanzoui.com/b016lq0xi)
 + 密码：`a713`
 
-### 视角小说游戏资源库
-+ https://vndb.org/
-
 ### 引擎格式大全和引擎大全
-+ https://morkt.github.io/GARbro/supported.html
++ [官网](https://morkt.github.io/GARbro/supported.html)
 
 ### 国人开发的html5引擎：`webvn`
-+ https://github.com/liriliri/webvn
-+ 半弃坑
++ [官网](https://github.com/liriliri/webvn)
++ 描述：
+  + 半弃坑
 
 ### 视觉小说收集站：`vndb`
-+ https://vndb.org/
++ [官网](https://vndb.org/)
 
 ### 我开发的Avg框架——`EasyAvg.js`：基于`jquery`封装，dom渲染
-+ https://github.com/little-game-and-simple-software/EasyAvg.js
-+ 2.0打算使用`pharser.js`做底层渲染
++ [开源地址](https://github.com/little-game-and-simple-software/EasyAvg.js)
++ 描述：
+  + 开源
+  + 轻量级
+  + 基于web技术
+  + todo：2.0打算使用`pharser.js`做底层渲染
 
 ### `novelty`引擎
-+ http://www.visualnovelty.com/index.html
++ [官网](http://www.visualnovelty.com/index.html)
++ 描述：
+  + 开源
 
 ### `catSystem2`引擎
 + http://cs2.suki.jp/
 
 ### `xsystem-35-sdl2`引擎
-+ https://github.com/kichikuou/xsystem35-sdl2
-+ alicesoft公司的引擎
++ [开源地址](https://github.com/kichikuou/xsystem35-sdl2)
++ 描述：
++ alicesoft公司的引擎的开源运行环境
 
-### `system-3-sdl2`引擎
-+ https://github.com/kichikuou/system3-sdl2
-+ alicesoft公司的引擎
+### `system-3-sdl2`运行引擎
++ [开源地址](https://github.com/kichikuou/system3-sdl2)
++ 描述：
+  + alicesoft公司的引擎的开源运行环境
 
 ### `bkengine`：全新的AVG/Galgame游戏引擎
-+ https://bakery.moe/
-+ 基于`cocos-2dx`
++ [官网](https://bakery.moe/)
++ 描述：
+  + 闭源
+  + 国产
+  + 底层基于`cocos-2dx`
 
 ### `the nvl maker`
 + http://www.nvlmaker.net/
 + 基于krk
 
 ### `Monogatari`引擎
-+ 源码：https://github.com/Monogatari/Monogatari
-+ 官网：https://monogatari.io/
-+ 开源, 基于js
++ [源码](https://github.com/Monogatari/Monogatari)
++ [官网](https://monogatari.io/)
++ 描述：
+  + 开源
+  + 基于web技术
 
 ### `ren'js`
-+ 源码：https://github.com/lunafromthemoon/RenJS-V2
-+ 官网：http://renjs.net/
-+ 开源
++ [源码](https://github.com/lunafromthemoon/RenJS-V2)
++ [官网](http://renjs.net/)
++ 描述：
+  + 开源
 
 ### `ren'py`
-+ https://www.renpy.org/
-+ 开源
++ [官网](https://www.renpy.org/)
++ 描述：
+  + 开源
 ### `rlvm`
-+ https://github.com/eglaysher/rlvm
-+ 开源reallivemax引擎的运行时实现
++ [开源地址](https://github.com/eglaysher/rlvm)
++ 描述：
+  + 开源reallivemax引擎的运行时实现
 
 ### 橙光
-+ https://www.66rpg.com/
-+ 闭源
++ [官网](https://www.66rpg.com/)
++ 描述：
+  + 国产
+  + 闭源
 
 ### FFD
-LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度很高，其中的分段SKIP功能，目前没看到有别的引擎可以做到
-公司官网：http://www.littlewitch.jp/products/lw02quartett/system.html
+
++ [公司官网](http://www.littlewitch.jp/products/lw02quartett/system.html)
++ 描述：
+  + LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度很高，其中的分段SKIP功能，目前没看到有别的引擎可以做到
 
 ### 闪艺
-+ 官网：https://www.3000.com/
-+ 下载地址：https://www.3000.com/client-download.html
-+ 国产, 橙光的竞争对手
++ [官网](https://www.3000.com/)
++ [下载地址](https://www.3000.com/client-download.html)
++ 描述：
+  + 国产, 橙光的竞争对手
 
-### avgplus 
-+ https://avg-engine.com/
-+ 开源地址：https://github.com/avg-plus/avg.renderer
+### AVGPlus引擎
++ [官网](https://avg-engine.com/)
++ [开源地址](https://github.com/avg-plus/avg.renderer)
 ### `Artemis Engine`
 + http://www.ies-net.com/?page_id=2
 + 闭源
@@ -123,41 +142,42 @@ LittleWitch自家的引擎,UI极其优秀，因为本社优化，所以流畅度
 + [相关资料](https://www.iteye.com/blog/rednaxelafx-150093)
 
 ### `EntisGLS`引擎
-+ http://www.entis.jp/gls/
++ [官网](http://www.entis.jp/gls/)
 
 ### `livemaker`引擎
-+ http://www.livemaker.net/
++ [官网](http://www.livemaker.net/)
 
 ### AIMS 2D多媒体引擎
 + [引擎官网](http://aims.dna-softwares.com/)
 + [公司官网](https://www.dna-softwares.com/)
 
 ### `playground 2d`引擎
-+ https://github.com/KLab/PlaygroundOSS
++ [官网](https://github.com/KLab/PlaygroundOSS)
 
 ### `Kalyge`引擎
-+ http://www.klayge.org/about/features/
++ [官网](http://www.klayge.org/about/features/)
 
 ### `Almight`AVG引擎
-+ https://almight.jp/en/
++ [官网](https://almight.jp/en/)
 
 ### `nscripter`引擎
-+ http://www.nscripter.com/
++ [官网](http://www.nscripter.com/)
 
 ### `yuris`引擎
-+ http://yu-ris.net/
++ [官网](http://yu-ris.net/)
 + 作者：穂乃井たくみ
 
 ### `retouch`引擎
-+ https://www.retouch.info/
++ [官网](https://www.retouch.info/)
 + 开发者：![image](https://user-images.githubusercontent.com/29478722/171829934-b0300dcb-c093-491a-9694-a02f92636889.png)
 
 ### `o2`引擎
-+ http://novelsphere.jp/
++ [官网](http://novelsphere.jp/)
 
 ### `ponkan`引擎
-+ https://github.com/studiomikan/ponkan
-+ 开源, 基于web
++ [开源地址](https://github.com/studiomikan/ponkan)
++ 特性：
+  + 基于web技术
 
 ### `VNES_Raylib`引擎
 + https://github.com/ishani-rgb/VNES-Raylib
