@@ -57,7 +57,11 @@
   + 开源
 
 ### `catSystem2`引擎
-+ http://cs2.suki.jp/
++ [官网](http://cs2.suki.jp/)
++ 描述：
+  + 是否开源：闭源，私有
+  + 使用授权：同人免费使用，商业技术支持收费
+  + 开发者信息：日本风车社
 
 ### `xsystem-35-sdl2`引擎
 + [开源地址](https://github.com/kichikuou/xsystem35-sdl2)
@@ -77,8 +81,13 @@
   + 底层基于`cocos-2dx`
 
 ### `the nvl maker`
-+ http://www.nvlmaker.net/
-+ 基于krk
++ [官网](http://www.nvlmaker.net/)
++ 描述：
+  + 是否开源：开源或者半开源
+  + 技术：基于krk的模板引擎
+  + 是否跨平台：未知
+  + 其他版本：![image](https://user-images.githubusercontent.com/29478722/174467185-c259589a-742d-4e1a-9a34-5f16b77411ec.png)
+
 
 ### `Monogatari`引擎
 + [源码](https://github.com/Monogatari/Monogatari)
@@ -353,7 +362,8 @@
 + 描述：
   + 是否开源：未知
   + qq群：21750804
-  + [引擎下载](https://github.com/2439905184/Galgame-Engine-Collect/releases/tag/v1.3) 我从他们官网qq群里拿的，不容易啊。开发者抱着自己论坛不放手，百度云链接又过期了。
+  + [引擎下载](https://github.com/2439905184/Galgame-Engine-Collect/releases/tag/v1.3)
+  + 我从他们官网qq群里拿的，不容易啊。开发者抱着自己论坛不放手，百度云链接又过期了。
 
 ### Visual Novel Maker
 + [官网](https://visualnovelmaker.com/)
