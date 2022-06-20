@@ -88,6 +88,12 @@
   + 是否跨平台：未知
   + 其他版本：![image](https://user-images.githubusercontent.com/29478722/174467185-c259589a-742d-4e1a-9a34-5f16b77411ec.png)
 
+### krkrz
++ [官网](https://krkrz.github.io/)
++ 描述：
+  + 是否开源：开源
+  + 引擎历史悠久，krkrz是krkr的升级版
+  + 开发者信息：krkrz团队，原作者：[w.dee](https://github.com/w-dee)似乎已经不从事krkr的开发了
 
 ### `Monogatari`引擎
 + [源码](https://github.com/Monogatari/Monogatari)
