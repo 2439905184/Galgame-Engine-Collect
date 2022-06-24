@@ -431,6 +431,11 @@
   + 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁 
 + [返回目录](#目录)
 
+## 音乐素材站
++ [SLOS](http://slos.biz/)
+  + 描述：原创游戏《noesis——诉说谎言的记忆》使用了SLOS的音源
+  + [使用协议](http://slos.biz/#x:_rule)
+
 
 ## 相关工具
 + [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
