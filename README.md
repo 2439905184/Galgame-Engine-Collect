@@ -439,6 +439,10 @@
 + [甘茶の音乐工坊](http://nostalgiamusic.info/index.html)
   + [使用协议](http://nostalgiamusic.info/terms.html)
   + 产地：日本
++ [H/MIX GALLERY](http://www.hmix.net/)
+  + [使用协议](http://www.hmix.net/music_gallery/index.htm)
+  + 版权：本网站的音乐版权归秋山裕和所有。
+  + 产地：日本
 
 ## 相关工具
 + [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
