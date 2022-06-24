@@ -435,7 +435,10 @@
 + [SLOS](http://slos.biz/)
   + 描述：原创游戏《noesis——诉说谎言的记忆》使用了SLOS的音源
   + [使用协议](http://slos.biz/#x:_rule)
-
+  + 产地：日本
++ [甘茶の音乐工坊](http://nostalgiamusic.info/index.html)
+  + [使用协议](http://nostalgiamusic.info/terms.html)
+  + 产地：日本
 
 ## 相关工具
 + [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
