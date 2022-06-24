@@ -443,7 +443,8 @@
   + [使用协议](http://www.hmix.net/music_gallery/index.htm)
   + 版权：本网站的音乐版权归秋山裕和所有。
   + 产地：日本
-
++ 炼狱庭园（原网站已关闭）
+  + [网易云链接](https://music.163.com/#/djradio?id=350030118&order=1&_hash=programlist&limit=100&offset=100)
 ## 相关工具
 + [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
 + [FuckGalEngine](https://github.com/Inori/FuckGalEngine) 描述：某github用户的个人galgame破解工具
