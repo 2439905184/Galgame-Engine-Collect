@@ -398,6 +398,11 @@
   + 开发者信息：国内某独立开发者团队
   + 技术：基于Unity，对程序员友好的视觉小说（VN）/文字冒险游戏（AVG）框架
 
+### NovelRT
++ [开源地址](https://github.com/novelrt/NovelRT)
++ 描述：跨平台的2D游戏引擎，伴随着强大的视觉小说工具集。
+  + 技术：主要基于c++
+
 ### LPEngine
 + [官网](http://game.lpengine.cn/)
 + qq群：923454388
