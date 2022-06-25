@@ -431,6 +431,12 @@
 + [开源地址](https://github.com/DbpGaming/MVN)
 + 描述：A Modern visual novel engine written in C
   + 技术：c++
+
+### AlexiaVN
++ [开源地址](https://github.com/Fernando1612/AlexiaVN)
++ 描述：大约
+Alexia视觉小说是一个视觉小说引擎，您可以使用它以非常简单的方式从Android手机创建和再现视觉小说。您可以输入文本，图像，声音和视频来创建精彩的故事。它非常易于使用，带有直观的说明，您无需知道如何编程。
+  + 技术：Java
 ### LPEngine
 + [官网](http://game.lpengine.cn/)
 + qq群：923454388
