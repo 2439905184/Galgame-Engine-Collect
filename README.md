@@ -409,6 +409,8 @@
 + 描述：
   + 技术：基于web，js系
   + 开源协议：Apache License 2.0
+  + 跨平台：![image](https://user-images.githubusercontent.com/29478722/175757057-a7a00a7d-3cef-4096-9b5d-b2a1490b8913.png)
+
 
 ### Sooty-Engine-OLD
 + [开源地址](https://github.com/teebarjunk/Sooty-Engine-OLD)
