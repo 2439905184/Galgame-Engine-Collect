@@ -426,6 +426,11 @@
 + [开源地址](https://github.com/VoidmatrixHeathcliff/DreamFramework)
 + 描述：DreamFramework 是基于 EtherEngine 搭建的 AVG 类游戏开发框架
   + 产地：中国
+
+### MVN
++ [开源地址](https://github.com/DbpGaming/MVN)
++ 描述：A Modern visual novel engine written in C
+  + 技术：c++
 ### LPEngine
 + [官网](http://game.lpengine.cn/)
 + qq群：923454388
