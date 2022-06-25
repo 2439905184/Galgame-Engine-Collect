@@ -410,6 +410,10 @@
   + 技术：基于web，js系
   + 开源协议：Apache License 2.0
 
+### Sooty-Engine-OLD
++ [开源地址](https://github.com/teebarjunk/Sooty-Engine-OLD)
++ 描述：
+  + 技术：基于Godot引擎，gdscript系
 ### LPEngine
 + [官网](http://game.lpengine.cn/)
 + qq群：923454388
