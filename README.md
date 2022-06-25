@@ -421,6 +421,11 @@
 + [开源地址](https://github.com/diegodan1893/Iris-Engine)
 + 描述：A visual novel engine I made just for fun.
   + 技术：基于c++
+
+### DreamFramework
++ [开源地址](https://github.com/VoidmatrixHeathcliff/DreamFramework)
++ 描述：DreamFramework 是基于 EtherEngine 搭建的 AVG 类游戏开发框架
+  + 产地：中国
 ### LPEngine
 + [官网](http://game.lpengine.cn/)
 + qq群：923454388
