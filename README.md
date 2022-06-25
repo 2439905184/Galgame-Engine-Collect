@@ -462,4 +462,5 @@
 + [Visual Novel Upscaler](https://github.com/hokejyo/VisualNovelUpscaler) 描述:一键将视觉小说/Galgame以高分辨率重制，现已支持Kirikiri2/Z及Artemis引擎
 + [FuckGalEngine](https://github.com/Inori/FuckGalEngine) 描述：某github用户的个人galgame破解工具
 + [movie2galagame](https://github.com/Quandong-Zhang/movie2galagame) 描述：只需影片的mp4和srt文件，就可以自动生成游戏2333333.....
++ [UniGal-Script](https://github.com/Uni-Gal/UniGal-Script) 描述：UniGal-Script为创造一种具有普适性的语法标准，因此采用了XML作为基础。之所以采用XML而不是JSON或YAML，可详见备注部分的文档。没有采用JSON或YAML，是为了保证一个能更好的适应更多环境的脚本。此外，有的引擎基于js所以偏向JSON，有的基于Python所以偏向YAML，如果分别维护分支，工作量会很大，会很难维护的过来。
 + [返回目录](#目录)
