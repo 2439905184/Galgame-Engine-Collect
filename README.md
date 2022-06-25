@@ -403,6 +403,13 @@
 + 描述：跨平台的2D游戏引擎，伴随着强大的视觉小说工具集。
   + 技术：主要基于c++
 
+### Tuesday-js
++ [开源地址](https://github.com/Kirilllive/tuesday-js)
++ [官网](https://kirilllive.github.io/tuesday-js/)
++ 描述：
+  + 技术：基于web，js系
+  + 开源协议：Apache License 2.0
+
 ### LPEngine
 + [官网](http://game.lpengine.cn/)
 + qq群：923454388
