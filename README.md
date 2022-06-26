@@ -178,10 +178,11 @@
   + 闭源
   + 资料暂无
 ### `EntisGLS`引擎
-+ [官网](http://www.entis.jp/gls/)
++ [引擎官网](http://www.entis.jp/gls/)
++ [公司官网](http://entis.jp/)
 + 描述：
   + 产地：日本
-  + 源码授权：未知
+  + [源码授权协议](https://github.com/2439905184/Galgame-Engine-Collect/blob/main/Liscenses/EntiGLS.zh.license)
   + 详细资料暂无
 ### `livemaker`引擎
 + [官网](http://www.livemaker.net/)
