@@ -433,6 +433,13 @@
 + 描述：A Modern visual novel engine written in C
   + 技术：c++
 
+### Snowing
++ [开源地址](https://github.com/Strrationalism/Snowing)
++ 描述：Snowing Game Engine
+  + 技术：c++
+  + 产地：中国
+  + 开发者信息：弦语蝶梦
+
 ### AlexiaVN
 + [开源地址](https://github.com/Fernando1612/AlexiaVN)
 + 描述：大约
