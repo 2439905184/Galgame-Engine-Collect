@@ -184,6 +184,14 @@
   + 产地：日本
   + [源码授权协议](https://github.com/2439905184/Galgame-Engine-Collect/blob/main/Liscenses/EntiGLS.zh.license)
   + 详细资料暂无
+  + 开发者信息：
+  + 官方推特：https://twitter.com/entis_soft 描述：同人ゲーム開発サークル Entis soft 広報用アカウントです。
+  + 可能是创始人：https://twitter.com/mint_sugar 描述：同人ゲーム作っています。
+（ツイートは、プログラム、ゲーム開発、アニメ鑑賞、宇宙、将棋観戦系が多いかも）
+同人ゲーム情報のみは 
+@entis_soft
+ をフォローしてください
+pixiv → https://pixiv.net/users/83275
 ### `livemaker`引擎
 + [官网](http://www.livemaker.net/)
 + 描述：
