@@ -450,6 +450,8 @@ pixiv → https://pixiv.net/users/83275
   + 技术：c++
   + 产地：中国
   + 开发者信息：弦语蝶梦
+### Project NyanLib
++ [官网地址](http://www2s.biglobe.ne.jp/~tinyan/nyanlib/index.htm)
 
 ### AlexiaVN
 + [开源地址](https://github.com/Fernando1612/AlexiaVN)
