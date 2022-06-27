@@ -468,8 +468,11 @@ pixiv → https://pixiv.net/users/83275
 功能可能在任何时候被添加，或者错误可能被纠正，恕不另行通知。 请事先了解这一点。
 
 + 下载地址：年代久远服务器403错误了TAT
-+ [公司官 存档](https://web.archive.org/web/20130411040737/http://www.neko-soft.com/)
++ [公司官网 存档](https://web.archive.org/web/20130411040737/http://www.neko-soft.com/)
 
+### Ntrf-Gal-engine
++ [开源地址](https://github.com/lenrinfvck/Ntrf-Gal-Engine)
++ 描述：基于脚本解析的Galgame游戏引擎
 
 ### AlexiaVN
 + [开源地址](https://github.com/Fernando1612/AlexiaVN)
