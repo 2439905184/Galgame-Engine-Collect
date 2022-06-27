@@ -188,7 +188,7 @@
   + 官方推特：https://twitter.com/entis_soft 描述：同人ゲーム開発サークル Entis soft 広報用アカウントです。
   + 可能是创始人：https://twitter.com/mint_sugar 描述：同人ゲーム作っています。
 （ツイートは、プログラム、ゲーム開発、アニメ鑑賞、宇宙、将棋観戦系が多いかも）
-+ 引擎名称来源：桌子名字的前缀里面有Entis，而且EntisGLS又是基于oepngl的，GLS的意思是opengl simple所以EntisGLS的意思是：Entis这个人开发了一个基于GL的简单的封装引擎
++ 引擎名称来源：作者（Leshade Entis）名字的里面有Entis，而且EntisGLS又是基于oepngl的，GLS的意思是opengl simple所以EntisGLS的意思是：Entis这个人开发了一个基于GL的简单的封装引擎
 同人ゲーム情報のみは 
 @entis_soft
  をフォローしてください
