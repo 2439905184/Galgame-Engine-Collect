@@ -221,9 +221,10 @@ pixiv → https://pixiv.net/users/83275
 + [官网](http://www.klayge.org/)
 + [开源地址](https://github.com/gongminmin/KlayGE)
 + 描述：
-  + 产地：未知
+  + 产地：中国
   + 状态：开源
   + 源码授权协议：GPL2.0
+  + 开发者信息：中国人：龚大
 
 ### `Almight`AVG引擎
 + [官网](https://almight.jp/en/)
