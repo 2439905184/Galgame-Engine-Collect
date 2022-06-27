@@ -474,6 +474,10 @@ pixiv → https://pixiv.net/users/83275
 + [开源地址](https://github.com/lenrinfvck/Ntrf-Gal-Engine)
 + 描述：基于脚本解析的Galgame游戏引擎
 
+### System NNN
++ [开源地址](https://github.com/tinyan/SystemNNN)
++ 注意这个可能不对
+
 ### AlexiaVN
 + [开源地址](https://github.com/Fernando1612/AlexiaVN)
 + 描述：大约
