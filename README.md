@@ -326,6 +326,7 @@ pixiv → https://pixiv.net/users/83275
   + 源码授权协议：MIT
   + 技术：C语言+opengl或者directx
   + 优点：源码简单，易于学习
++ 引擎名称来源：作者说他的朋友想在冬天吃西瓜，所以就有了suika2这个引擎的名字
 
 ### `Soul Engine`项目
 + [官网](http://soulengineproject.com/)
