@@ -194,6 +194,7 @@
 @entis_soft
  をフォローしてください
 pixiv → https://pixiv.net/users/83275
++ 使用entis开发的游戏：[我是唯一一个在充满僵尸的世界里没有受到攻击的人](http://www.spermation.net/seacoxx/zombie/index.html)
 ### `livemaker`引擎
 + [官网](http://www.livemaker.net/)
 + 描述：
