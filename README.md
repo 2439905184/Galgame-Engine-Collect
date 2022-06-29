@@ -24,7 +24,7 @@
 + https://wwa.lanzoui.com/b016lryej
 + 密码：`9yo7`
 + 推荐使用`carss0.140-final`解包，支持的格式多，`nsa`和`xp3`都能解
-
++ [crass解包器官网](http://web.archive.org/web/20180526203115/http://galcrass.blog124.fc2blog.us/) 描述：这个需要翻墙访问，原官网已经没了，这个是收录。
 ### 各种视觉小说/gal引擎/游戏合集
 + [链接](https://pan.cangshui.net/)
 + 密码：`god`
