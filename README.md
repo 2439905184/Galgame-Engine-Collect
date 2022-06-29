@@ -384,6 +384,7 @@ pixiv → https://pixiv.net/users/83275
 
 ### 无双avg引擎
 + [官网](http://gamediy.net/) （已关闭）
++ [web achive上面的存档 记录了以前的论坛](http://web.archive.org/web/20151020024531/http://bbs.gamediy.net/)
 + 描述：
   + 是否开源：未知
   + qq群：21750804
