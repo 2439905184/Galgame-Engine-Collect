@@ -556,6 +556,7 @@ Alexia视觉小说是一个视觉小说引擎，您可以使用它以非常简�
 + [movie2galagame](https://github.com/Quandong-Zhang/movie2galagame) 描述：只需影片的mp4和srt文件，就可以自动生成游戏2333333.....
 + [UniGal-Script](https://github.com/Uni-Gal/UniGal-Script) 描述：UniGal-Script为创造一种具有普适性的语法标准，因此采用了XML作为基础。之所以采用XML而不是JSON或YAML，可详见备注部分的文档。没有采用JSON或YAML，是为了保证一个能更好的适应更多环境的脚本。此外，有的引擎基于js所以偏向JSON，有的基于Python所以偏向YAML，如果分别维护分支，工作量会很大，会很难维护的过来。
 + [PrepPipe系通用剧情脚本语言](https://github.com/PrepPipe/preppipe-python)
++ [General-AVG-Engine](https://github.com/Pevernow/General-AVG-Engine) 描述：The general AVG interpreter front-end engine is planned to support krkr, nscripter and other languages. No back-end support, just unpack in advance
 + [返回目录](#目录)
 <br/>
 [galgame引擎横向对比](https://github.com/2439905184/Galgame-Engine-Collect/blob/main/Galgame%E5%BC%95%E6%93%8E%E6%A8%AA%E5%90%91%E5%AF%B9%E6%AF%94.pdf)
