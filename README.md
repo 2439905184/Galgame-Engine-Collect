@@ -56,6 +56,7 @@
 + [官网](http://www.visualnovelty.com/index.html)
 + 描述：
   + 开源
++ 特性：自带IDE集成开发环境，免编程或者自己写代码![image](https://user-images.githubusercontent.com/29478722/176579839-98154a6c-f3a9-42d7-b80e-ed179b81a6ac.png)
 
 ### `catSystem2`引擎
 + [官网](http://cs2.suki.jp/)
