@@ -65,6 +65,15 @@
   + 使用授权：同人免费使用，商业技术支持收费
   + 开发者信息：日本风车社
 
+### Oxygengine
++ [官网](https://psichix.github.io/Oxygengine)
++ [开源地址](https://github.com/PsichiX/oxygengine)
++ 描述：
+  + 是否开源：开源
+  + 截图：![image](https://raw.githubusercontent.com/PsichiX/Oxygengine/master/media/oxygengine-visual-novel-teaser.gif)
+
+
+  
 ### `xsystem-35-sdl2`引擎
 + [开源地址](https://github.com/kichikuou/xsystem35-sdl2)
 + 描述：
