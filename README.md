@@ -576,4 +576,5 @@ Alexia视觉小说是一个视觉小说引擎，您可以使用它以非常简�
 + [General-AVG-Engine](https://github.com/Pevernow/General-AVG-Engine) 描述：The general AVG interpreter front-end engine is planned to support krkr, nscripter and other languages. No back-end support, just unpack in advance
 + [返回目录](#目录)
 <br/>
+
 [galgame引擎横向对比](https://github.com/2439905184/Galgame-Engine-Collect/blob/main/Galgame%E5%BC%95%E6%93%8E%E6%A8%AA%E5%90%91%E5%AF%B9%E6%AF%94.pdf)
