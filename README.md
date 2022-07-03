@@ -210,7 +210,9 @@ https://newstweet.jp/profile/id/129408562
 http://www.entis.jp/diary.cgi?id=20170902
 https://buhitter.com/author/mint_sugar
 https://twitter.com/mint_sugar
-
++ 作者开发的脚本语言：Rosetta
+  + https://www.entis.jp/soft/rosetta/
+  + 描述：Rosetta是EntisGLS4提供的一种脚本语言，是一种解释器，用于简单处理文本、图像、音频、视频和其他数据以及游戏中的脚本。使用风险自负。
 ### `livemaker`引擎
 + [官网](http://www.livemaker.net/)
 + 描述：
