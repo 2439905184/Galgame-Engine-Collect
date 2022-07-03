@@ -199,12 +199,12 @@
   + 官方推特：https://twitter.com/entis_soft 描述：同人ゲーム開発サークル Entis soft 広報用アカウントです。
   + 可能是创始人：https://twitter.com/mint_sugar 描述：同人ゲーム作っています。
 （ツイートは、プログラム、ゲーム開発、アニメ鑑賞、宇宙、将棋観戦系が多いかも）
-+ 引擎名称来源：作者（Leshade Entis）名字的里面有Entis，而且EntisGLS又是基于oepngl的，GLS的意思是opengl simple所以EntisGLS的意思是：Entis这个人开发了一个基于GL的简单的封装引擎
-同人ゲーム情報のみは 
-@entis_soft
- をフォローしてください
-pixiv → https://pixiv.net/users/83275
-+ 使用entis开发的游戏：[我是唯一一个在充满僵尸的世界里没有受到攻击的人](http://www.spermation.net/seacoxx/zombie/index.html)
++ 引擎名称来源：作者（Leshade Entis理影）名字的里面有Entis，而且EntisGLS又是基于oepngl的，GLS的意思是opengl simple所以EntisGLS的意思是：Entis这个人开发了一个基于GL的简单的封装引擎
+同人ゲーム情報のみは  @entis_soft をフォローしてください pixiv → https://pixiv.net/users/83275
++ 使用entis开发的游戏：
+  + [我是唯一一个在充满僵尸的世界里没有受到攻击的人](http://www.spermation.net/seacoxx/zombie/index.html) 类型：galgame
+  + [隼](https://www.entis.jp/soft/hayabusa/) 类型:3d stg。根据日本隼鸟号事实改编。 [宣传视频](https://www.bilibili.com/video/BV1xU4y1Q7im?spm_id_from=333.999.0.0)
+  + [wanderland](https://www.entis.jp/soft/wonderland/）类型：stg  [宣传视频](https://www.bilibili.com/video/BV1qZ4y1i7aQ/?spm_id_from=333.788.videocard.0&vd_source=2f740c00cfe14d9860c2829322f9898f)
 ### `livemaker`引擎
 + [官网](http://www.livemaker.net/)
 + 描述：
