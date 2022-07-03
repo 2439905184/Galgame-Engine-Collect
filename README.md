@@ -204,7 +204,7 @@
 + 使用entis开发的游戏：
   + [我是唯一一个在充满僵尸的世界里没有受到攻击的人](http://www.spermation.net/seacoxx/zombie/index.html) 类型：galgame
   + [隼](https://www.entis.jp/soft/hayabusa/) 类型:3d stg。根据日本隼鸟号事实改编。 [宣传视频](https://www.bilibili.com/video/BV1xU4y1Q7im?spm_id_from=333.999.0.0)
-  + [wanderland](https://www.entis.jp/soft/wonderland/）类型：stg  [宣传视频](https://www.bilibili.com/video/BV1qZ4y1i7aQ/?spm_id_from=333.788.videocard.0&vd_source=2f740c00cfe14d9860c2829322f9898f)
+  + [wanderland](https://www.entis.jp/soft/wonderland/)类型：stg  [宣传视频](https://www.bilibili.com/video/BV1qZ4y1i7aQ/?spm_id_from=333.788.videocard.0&vd_source=2f740c00cfe14d9860c2829322f9898f)
 ### `livemaker`引擎
 + [官网](http://www.livemaker.net/)
 + 描述：
