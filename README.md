@@ -17,6 +17,7 @@
 + [相关工具列表](#相关工具)
 + [github上的视觉小说引擎排行榜](https://github.com/topics/visual-novel-engine)
 + [引擎大全表格](table.md)
++ [小白也能学会的Galgame制作](https://github.com/FiveYellowMice/onscripter-tutorial#%E5%B0%8F%E7%99%BD%E4%B9%9F%E8%83%BD%E5%AD%A6%E4%BC%9A%E7%9A%84galgame%E5%88%B6%E4%BD%9C) 基于nscripter引擎和onscripter运行环境
 
 ## 正题!
 更多详细资料请查看wiki
