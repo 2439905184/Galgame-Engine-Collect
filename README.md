@@ -241,7 +241,7 @@ https://twitter.com/mint_sugar
   + 源码授权协议：Apache 2.0
   
 
-### `Kalyge`引擎
+### `Klayge`引擎
 + [官网](http://www.klayge.org/)
 + [开源地址](https://github.com/gongminmin/KlayGE)
 + 描述：
