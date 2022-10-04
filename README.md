@@ -588,6 +588,7 @@ Alexia视觉小说是一个视觉小说引擎，您可以使用它以非常简�
 + [nscripter翻译和打包工具](http://nscripter.insani.org/sdk.html) [nscr_sdk](http://nscripter.insani.org/downloads/nscr_sdk.zip) 注：这个sdk里面包含了打包arc.nsa的工具，即：nsaarc.exe
 + [高桥大神的新一代产品——Nscripter2(日语)的API手册。](https://github.com/xubeiyan/Nscripter2-API)
 + [EntisGLS汉化手册](https://github.com/2439905184/EntisGLS_zh_doc)
++ [bkengine引擎的开源词法分析器实现](https://github.com/2439905184/bkscr-parser)
 + [返回目录](#目录)
 <br/>
 
