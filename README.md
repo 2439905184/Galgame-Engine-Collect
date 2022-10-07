@@ -67,7 +67,7 @@
   + 是否开源：闭源，私有
   + 使用授权：同人免费使用，商业技术支持收费
   + 开发者信息：日本风车社
-
+  + [catsystem引擎中文简介](https://zhuanlan.zhihu.com/p/561558009)
 ### Oxygengine
 + [官网](https://psichix.github.io/Oxygengine)
 + [开源地址](https://github.com/PsichiX/oxygengine)
