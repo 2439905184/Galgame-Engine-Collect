@@ -334,7 +334,7 @@ https://twitter.com/mint_sugar
 + 描述：
   + 日本key社自研
   + 状态：不开源，私有引擎
-
+  + [引擎下载](https://github.com/imKota/SiglusEngineOfficialKit)
 ###  `AIRNovel`引擎
 + [官网](https://famibee.web.fc2.com/intro/home.htm)
 + 描述：
