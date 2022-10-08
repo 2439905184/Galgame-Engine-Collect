@@ -322,7 +322,6 @@ https://twitter.com/mint_sugar
   + 特性：
   * 手机上的GalGame引擎
   * 支持塞班S60等系统运行
-  * 
 ### `nvlist`引擎
 + [开源地址](https://github.com/anonl/nvlist)
 + 描述：
