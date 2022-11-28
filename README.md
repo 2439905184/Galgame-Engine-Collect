@@ -7,6 +7,8 @@
 以下都是一些目录，但没有划分年龄段。个人推荐先玩`noesis`之类的视觉小说，`noesis`含有大量对人生、世界的哲理思考，悬疑，轻微暴力倾向，不适合低于15岁的人玩，请各位注意。
 
 我这里说的`noesis`是这个[noesis](http://cutlass.qee.jp/)游戏，不要和另外一个noesis搞混了
+![image](https://user-images.githubusercontent.com/29478722/194474431-a7eb9d00-acbb-47ad-8afd-0597e8f2f607.png)
+注释: 这个版本是原作者经过高清重置的版本,剧情应该没变,最远古的版本在steam上面可以找到汉化版:Noesis01, 使用onscripter运行,nscripter开发
 
 ## 小提示
 
@@ -82,7 +84,7 @@
   + 是否开源：闭源，私有
   + 使用授权：同人免费使用，商业技术支持收费
   + 开发者信息：日本风车社
-
+  + [catsystem引擎中文简介](https://zhuanlan.zhihu.com/p/561558009)
 ### Oxygengine
 
 + [官网](https://psichix.github.io/Oxygengine)
@@ -281,8 +283,7 @@
   + 状态：开源
   + 源码授权协议：Apache 2.0
 
-### `Kalyge`引擎
-
+### `Klayge`引擎
 + [官网](http://www.klayge.org/)
 + [开源地址](https://github.com/gongminmin/KlayGE)
 + 描述：
@@ -372,8 +373,6 @@
 
   * 手机上的GalGame引擎
   * 支持塞班S60等系统运行
-  *
-
 ### `nvlist`引擎
 
 + [开源地址](https://github.com/anonl/nvlist)
@@ -387,9 +386,9 @@
 + 描述：
   + 日本key社自研
   + 状态：不开源，私有引擎
-
-### `AIRNovel`引擎
-
+  + [引擎下载](https://github.com/imKota/SiglusEngineOfficialKit)
+  
+###  `AIRNovel`引擎
 + [官网](https://famibee.web.fc2.com/intro/home.htm)
 + 描述：
   + 是否开源：未知
@@ -587,6 +586,10 @@
 + 描述：大约
   Alexia视觉小说是一个视觉小说引擎，您可以使用它以非常简单的方式从Android手机创建和再现视觉小说。您可以输入文本，图像，声音和视频来创建精彩的故事。它非常易于使用，带有直观的说明，您无需知道如何编程。
   + 技术：Java
+  
+### Kaguya engine
++ 资料暂无
++ [解包工具](https://github.com/crskycode/Kaguya_Tool)
 
 ### LPEngine
 
@@ -670,6 +673,7 @@
 + [nscripter翻译和打包工具](http://nscripter.insani.org/sdk.html) [nscr_sdk](http://nscripter.insani.org/downloads/nscr_sdk.zip) 注：这个sdk里面包含了打包arc.nsa的工具，即：nsaarc.exe
 + [高桥大神的新一代产品——Nscripter2(日语)的API手册。](https://github.com/xubeiyan/Nscripter2-API)
 + [EntisGLS汉化手册](https://github.com/2439905184/EntisGLS_zh_doc)
++ [bkengine引擎的开源词法分析器实现](https://github.com/2439905184/bkscr-parser)
 + [返回目录](#目录)
   <br/>
 
