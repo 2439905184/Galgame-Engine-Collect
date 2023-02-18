@@ -597,6 +597,9 @@
 + qq群：923454388
 + 此游戏引擎似乎与galgame和visual novel无关，大家不需要太在意这个引擎。
 
+### webGal
++ [官网](https://github.com/MakinoharaShoko/WebGAL)
+
 <hr/>
 
 ## 下面都是一些资源网站
