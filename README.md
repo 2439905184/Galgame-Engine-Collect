@@ -677,6 +677,7 @@
 + [高桥大神的新一代产品——Nscripter2(日语)的API手册。](https://github.com/xubeiyan/Nscripter2-API)
 + [EntisGLS汉化手册](https://github.com/2439905184/EntisGLS_zh_doc)
 + [bkengine引擎的开源词法分析器实现](https://github.com/2439905184/bkscr-parser)
++ [GalUpTs-对已解包Gal实现ChatGPT自动化翻译](https://github.com/Lilyltt/GalUpTs)
 + [返回目录](#目录)
   <br/>
 
