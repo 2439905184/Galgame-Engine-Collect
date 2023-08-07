@@ -634,6 +634,8 @@
   + 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁
 + [vn-info](http://vn-info.net/)
   + 描述：俄罗斯视觉小说咨询网站
++ [CnGal 中文GalGame资料站](https://www.cngal.org/)
+  + 描述：收集，索引国产gal及中文化galgame资料、文章、攻略，为galgame同好们提供方便
 + [返回目录](#目录)
 
 ## 音乐素材站
