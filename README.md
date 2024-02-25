@@ -437,15 +437,21 @@
   + 是否开源：闭源
   + 使用授权：同人免费使用
 
-### 国人开发的`Librian`引擎
+### 幼女开发的 `Librian` 引擎
 
 + [开源地址](https://github.com/RimoChan/Librian)
 + [官网](https://librian.net/)
 + 描述：
   + 是否开源：开源
-  + 开发者：个人开发者
-  + 技术：python + web + 虚拟机
-+ 引擎名称来源猜测 原英文单词：librarian 中文意思：图书管理员
+  + 开发者：[幼女](https://github.com/RimoChan)
+  + [技术](https://github.com/RimoChan/Librian/blob/9a9f93d7cf618af1031cadc9074c7cdff36565c4/readme.md?plain=1#L12)：Python + JavaScript (CEFPython)
++ 引擎名称[来源](https://doc.librian.net/site/%E9%97%9C%E6%96%BCLibrian/%E9%97%9C%E6%96%BCLibrian.html)：
+
+  ```
+  Librian嘛，構詞自然是「書本」+「人」，代表「紙上的人」。
+  
+  靈感來自《紙の上の魔法使い》——在這部作品裏，有一種魔法之書，只要打開來讀的話，書中的故事就會在現實中上演。
+  ```
 
 ### PJADV引擎
 
