@@ -57,10 +57,6 @@
 + 描述：
   + 半弃坑
 
-### 视觉小说收集站：`vndb`
-
-+ [官网](https://vndb.org/)
-
 ### 我开发的Avg框架——`EasyAvg.js`：基于`jquery`封装，dom渲染
 
 + [开源地址](https://github.com/little-game-and-simple-software/EasyAvg.js)
@@ -634,6 +630,10 @@
   + 描述：月幕Galgame-最戳你XP的美少女游戏综合交流平台 | 来感受这绝妙的艺术体裁
 + [vn-info](http://vn-info.net/)
   + 描述：俄罗斯视觉小说咨询网站
++ [CnGal 中文GalGame资料站](https://www.cngal.org/)
+  + 描述：收集，索引国产gal及中文化galgame资料、文章、攻略，为galgame同好们提供方便
++ [vndb 视觉小说收集站](https://vndb.org/)
+  + 描述：国外的电子视觉小说游戏收集网站
 + [返回目录](#目录)
 
 ## 音乐素材站
