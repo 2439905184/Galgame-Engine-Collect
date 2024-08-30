@@ -12,3 +12,4 @@
 | Ring-engine| 开源     | 是               | https://github.com/YYF233333/Ring-engine |
 | FelineSystem2 | 开源 | 是                | https://github.com/kokseen1/FelineSystem2|
 | Naninovel | 收费| 否 | https://assetstore.unity.com/packages/tools/game-toolkits/naninovel-visual-novel-engine-135453 |
+| ifvn | 闭源 | 不清楚 | http://www.cedong.com.cn/down/download_vn.html
