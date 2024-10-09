@@ -15,3 +15,5 @@
 |cGlagame | 是 | 是 |https://初爱游戏.top|
 | ifvn | 闭源 | 不清楚 | http://www.cedong.com.cn/down/download_vn.html|
 | HumiGal | 不清楚 | 是 | https://humigal.com/n/|
+| Light.vn | 不清楚 | 是 | https://lightvn.net/|
+| oice | 不清楚 | 是 | https://oice.com/ |
