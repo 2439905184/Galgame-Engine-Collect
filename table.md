@@ -13,4 +13,5 @@
 | FelineSystem2 | 开源 | 是                | https://github.com/kokseen1/FelineSystem2|
 | Naninovel | 收费| 否 | https://assetstore.unity.com/packages/tools/game-toolkits/naninovel-visual-novel-engine-135453 |
 |cGlagame | 是 | 是 |https://初爱游戏.top|
-| ifvn | 闭源 | 不清楚 | http://www.cedong.com.cn/down/download_vn.html
+| ifvn | 闭源 | 不清楚 | http://www.cedong.com.cn/down/download_vn.html|
+| HumiGal | 不清楚 | 是 | https://humigal.com/n/|
