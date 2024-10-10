@@ -17,3 +17,4 @@
 | HumiGal | 不清楚 | 是 | https://humigal.com/n/|
 | Light.vn | 不清楚 | 是 | https://lightvn.net/|
 | oice | 不清楚 | 是 | https://oice.com/ |
+| 豆腐 | 是 | 是 | https://doufu.moe/|
