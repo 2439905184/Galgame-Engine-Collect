@@ -19,3 +19,4 @@
 | oice | 不清楚 | 是 | https://oice.com/ |
 | 豆腐 | 是 | 是 | https://doufu.moe/|
 | utage |  不清楚 | 不清楚|https://assetstore.unity.com/packages/tools/game-toolkits/utage4-for-unity-text-adventure-game-engine-version4-266447 |
+| フリーウェア版「Malie ver4.4」| 否 | 是 | https://web.archive.org/web/20191203192939/http://www.light.gr.jp/light/download/freeware.html [游戏引擎下载](https://wwzs.lanzouu.com/ie45G384sked) [游戏sample数据](https://wwzs.lanzouu.com/ijCDj384skod) |
