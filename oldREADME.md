@@ -605,7 +605,10 @@
 <hr/>
 
 ## 下面都是一些资源网站
-
++ [TouchGalgame](https://www.touchgal.us/)
+  + 描述：游戏分享网站
++ [kungal](https://www.kungal.com/)
+  + 描述：游戏分享/社区网站
 + [loli suger：糖社](https://www.lolisuger.com/pcgame/galgame/)
   + 描述：游戏分享网站
 + [galWorld：Galgame爱好者之家](https://acgngame.net/)

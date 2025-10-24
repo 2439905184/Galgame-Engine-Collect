@@ -23,4 +23,5 @@
 
 + [引擎大全README](oldREADME.md)
 + [引擎表格大全](table.md)
++ [kungal上的gal引擎大全](https://www.kungal.com/galgame-engine)
 + [解包工具表格](unpack.md)
