@@ -25,3 +25,4 @@
 | VisionGal | 是 | 是 | https://darlingzerox.github.io/VisionGalDoc/|
 | Majiro引擎（琉璃交错 ~妹物语～ ） | 否 | 是 | 无 |
 | suika3 | 是 | 是 | https://github.com/suika3-community/suika3 |
+|FelineSystem2| 开源 | 是 | https://github.com/kokseen1/FelineSystem2|
