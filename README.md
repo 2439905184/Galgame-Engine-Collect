@@ -26,3 +26,4 @@
 + [kungal上的gal引擎大全](https://www.kungal.com/galgame-engine)
 + [解包工具表格](unpack.md)
 + [相关开发/翻译工具](tools.md)
++ [创作者](creator.md)
