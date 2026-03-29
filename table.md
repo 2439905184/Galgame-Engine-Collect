@@ -1,9 +1,9 @@
 ## Galgame引擎大全
 
 
-| 引擎       | 是否开源 | 是否免费开放使用 | 官网                                      |
-| ------------ | ---------- | ----------------- | ------------------------------------------ |
-| nscripter  | 闭源     | 是               | https://www.nscripter.com                 |
+| 引擎       | 作者 |是否开源 | 是否免费开放使用 | 官网                                      |
+| ------------ |-------- |  ---------- | ----------------- | ------------------------------------------ |
+| nscripter  | 高桥直树| 闭源     | 是               | https://www.nscripter.com                 |
 | catSystem2 | 闭源     | 是               | http://cs2.suki.jp/                       |
 | Monogatari | 开源     | 是               | https://monogatari.io/                    |
 | Ren's py   | 开源     | 是               | https://www.renpy.org/                    |
@@ -27,3 +27,4 @@
 | suika3 | 是 | 是 | https://github.com/suika3-community/suika3 |
 | FelineSystem2| 开源 | 是 | https://github.com/kokseen1/FelineSystem2|
 | ArtiMeow-AIGalGameMaker| 开源 | 是 | https://github.com/B5-Software/ArtiMeow-AIGalGameMaker|
+| Advjs| 云游军| 开源 | 是 | https://github.com/YunYouJun/advjs|
