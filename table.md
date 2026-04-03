@@ -8,12 +8,12 @@
 | Monogatari | 开源     | 是               | https://monogatari.io/                    |
 | Ren's py   | 开源     | 是               | https://www.renpy.org/                    |
 | novelty    | 不清楚   | 是               | http://www.visualnovelty.com/index.html   |
-| bkengine   | 闭源     | 是               | [https://bakery.moe](https://bakery.moe/) |
+| bkengine   | 闭源,底层基于cocos-2dx     | 是               | [https://bakery.moe](https://bakery.moe/) |
 | AquaAvgEngine | 开源 | 是 |https://github.com/Project-MethodBox/AquaAvgFramework |
 | Ring-engine| 开源     | 是               | https://github.com/YYF233333/Ring-engine |
 | FelineSystem2 | 开源 | 是                | https://github.com/kokseen1/FelineSystem2|
 | Naninovel | 收费| 否 | https://assetstore.unity.com/packages/tools/game-toolkits/naninovel-visual-novel-engine-135453 |
-|cGlagame | 是 | 是 |https://初爱游戏.top|
+| cGlagame | 是 | 是 |https://初爱游戏.top|
 | ifvn | 闭源 | 不清楚 | http://www.cedong.com.cn/down/download_vn.html|
 | HumiGal | 不清楚 | 是 | https://humigal.com/n/|
 | Light.vn | 不清楚 | 是 | https://lightvn.net/|
@@ -28,3 +28,4 @@
 | FelineSystem2| 开源 | 是 | https://github.com/kokseen1/FelineSystem2|
 | ArtiMeow-AIGalGameMaker| 开源 | 是 | https://github.com/B5-Software/ArtiMeow-AIGalGameMaker|
 | Advjs| 云游军| 开源 | 是 | https://github.com/YunYouJun/advjs|
+| IGA0| [Noesis社](https://bgm.tv/person/7715)封包格式：.iga 底层依赖DirectX-3D-9 | 否 | 否 | 无|
