@@ -27,3 +27,4 @@
 + [解包工具表格](unpack.md)
 + [相关开发/翻译工具](tools.md)
 + [创作者](creator.md)
++ [nscripter指令和renpy指令对照表](https://www.cnblogs.com/1288blog/p/19825337)
