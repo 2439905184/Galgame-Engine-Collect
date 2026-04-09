@@ -28,3 +28,4 @@
 + [相关开发/翻译工具](tools.md)
 + [创作者](creator.md)
 + [nscripter指令和renpy指令对照表](https://www.cnblogs.com/1288blog/p/19825337)
++ [NScripter标签提取器](https://codeberg.org/2439905184/nscripter_label_extractor)
