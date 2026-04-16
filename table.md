@@ -31,3 +31,4 @@
 | IGA0| [Noesis社](https://bgm.tv/person/7715)封包格式：.iga 底层依赖DirectX-3D-9 | 否 | 否 | 无|
 | suika-studio | https://github.com/awemorris | 是 | 是 | https://github.com/awemorris/suika-studio-2002|
 | project DVN+ |  | 是 | https://github.com/ProjectDVN/dvn |
+| NNNConfig| | 否 | 商业私有引擎 <img src="img/プリンセスＸ体験版.png" alt="プリンセスＸ体験版">| 
