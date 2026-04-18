@@ -31,3 +31,4 @@
 + [NScripter标签提取器](https://codeberg.org/2439905184/nscripter_label_extractor)
 + [Nscripter剧情文本提取器](https://codeberg.org/2439905184/nscripter-story-extractor)
 + [Nscripter-effect指令和renpy效果对照表](https://www.cnblogs.com/1288blog/p/19855189)
++ [SearchGal-聚合galgame搜索引擎](https://github.com/Moe-Sakura/SearchGal)
