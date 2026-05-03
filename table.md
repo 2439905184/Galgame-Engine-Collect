@@ -21,7 +21,7 @@
 | 末语引擎 | Icemic | 是 | 是 | https://momoyu.ink/ |
 | VisionGal | 未知 | 是 | 是 | https://darlingzerox.github.io/VisionGalDoc/ |
 | Majiro引擎（琉璃交错 ~妹物语～ ） | 未知 | 否 | 是 | 无 |
-| suika3 | 未知 | 是 | 是 | https://github.com/suika3-community/suika3 |
+| suika3 | awemorris | 是 | 是 | https://github.com/suika3-community/suika3 |
 | FelineSystem2 | 未知 | 开源 | 是 | https://github.com/kokseen1/FelineSystem2 |
 | ArtiMeow-AIGalGameMaker | 未知 | 开源 | 是 | https://github.com/B5-Software/ArtiMeow-AIGalGameMaker |
 | Advjs | 云游军 | 开源 | 是 | https://github.com/YunYouJun/advjs |
