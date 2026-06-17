@@ -3,4 +3,5 @@
 | ---- | -------- |
 | nscripter | crass或者 [NasOut](http://nscripter.insani.org/downloads/nsaout.zip)|
 | krkr| crass|
-|TyranoBuilder| |
+| TyranoBuilder| |
+| musica(minori社) | [fuckpaz](https://wwbme.lanzouu.com/ilE5B3s8cvoh) [源码](https://github.com/Inori/FuckGalEngine/tree/master/Minori/Minori/fuckpaz)
