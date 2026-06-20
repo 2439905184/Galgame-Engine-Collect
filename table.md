@@ -31,3 +31,5 @@
 | NNNConfig | 未知 | 否 | 商业私有引擎 | 无 |
 | FAVORITE | xmoezzz | 是 | 是 | https://github.com/xmoezzz/rfvp |
 | ngal | nasyt233 | 开源 | 是 | https://crates.io/crates/ngal https://github.com/nasyt233/ngal |
+| NovelRT | novelrt | 开源 | 是 | https://github.com/novelrt/NovelRT |
+| VoidNovelEngine | VoidmatrixHeathcliff | 开源 | 是 | https://github.com/VoidmatrixHeathcliff/VoidNovelEngine|
