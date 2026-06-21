@@ -33,3 +33,5 @@
 | ngal | nasyt233 | 开源 | 是 | https://crates.io/crates/ngal https://github.com/nasyt233/ngal |
 | NovelRT | novelrt | 开源 | 是 | https://github.com/novelrt/NovelRT |
 | VoidNovelEngine | VoidmatrixHeathcliff | 开源 | 是 | https://github.com/VoidmatrixHeathcliff/VoidNovelEngine|
+| Valkyria| 位置| 否 | 否 | 无|
+| cmvs | 紫社(purple Software) | 否 | 否 | 无 |
