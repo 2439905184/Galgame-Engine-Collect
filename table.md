@@ -35,3 +35,4 @@
 | VoidNovelEngine | VoidmatrixHeathcliff | 开源 | 是 | https://github.com/VoidmatrixHeathcliff/VoidNovelEngine|
 | Valkyria| 位置| 否 | 否 | 无|
 | cmvs | 紫社(purple Software) | 否 | 否 | 无 |
+| SakiEngine| 戴夫邻居史蒂夫 | 是 | 是 | https://sakiengine.aimes-soft.com/|
