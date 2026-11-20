@@ -36,3 +36,4 @@
 | Valkyria| 位置| 否 | 否 | 无|
 | cmvs | 紫社(purple Software) | 否 | 否 | 无 |
 | SakiEngine| 戴夫邻居史蒂夫 | 是 | 是 | https://sakiengine.aimes-soft.com/|
+| Artemis Engine| 未知 | Artemis Engine 是闭源的跨平台视觉小说／冒险游戏引擎，用简易脚本组织纸芝居式演出，并内嵌 Lua 以编写更复杂的逻辑。官方说明称同一套脚本可在 Windows、iOS、Android 上运行，另有 WebAssembly 浏览器版；商用授权还可覆盖 PlayStation 4 与 Nintendo Switch。文件结构接近吉里吉里。| 是| 不知道|
